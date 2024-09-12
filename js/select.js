@@ -1,5 +1,4 @@
 
-
 // Function to get  parameters from the URL
 function getQueryParams() {
     const params = new URLSearchParams(window.location.search);
@@ -55,4 +54,7 @@ function displaySelectedItem() {
 
 // Call the function to display the selected item
 displaySelectedItem();
+
+
+
 
