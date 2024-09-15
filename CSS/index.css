@@ -274,4 +274,7 @@ input{
     .h5{
         margin-top: 2rem;
     }
+    .search{
+        display: none;
+    }
 }
